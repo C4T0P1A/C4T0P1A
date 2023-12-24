@@ -12,9 +12,25 @@
 + Automation Scripting : Creating scripts to automate tasks and processes (e.g., Shell, Python, Batch, AHK).
 + User Interface Design.
 ```
+
 ## Goals
 ```diff
 - make it to 2024
 + update lambda frequently
 - get a job in software development
+```
+
+## Known Langs
+```diff
++ Python
++ Lua
++ HTML
++ CSS
++ Javascript
++ Autohotkey
++ C#
++ Java
++ Kotlin 
++ Batch/Bash
++ GoLang
 ```
