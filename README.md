@@ -26,6 +26,7 @@
 + Lua
 + HTML
 + CSS
++ PHP
 + Javascript
 + Autohotkey
 + C#
@@ -33,4 +34,5 @@
 + Kotlin 
 + Batch/Bash
 + GoLang
++ VBS
 ```
