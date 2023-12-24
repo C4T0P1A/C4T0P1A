@@ -6,11 +6,11 @@
 
 ## Skills
 ```diff
-+ Web Development: Crafting dynamic web applications using HTML, CSS, PHP, JavaScript.
-+ Android App Development: Building robust mobile apps using Java, Kotlin, or lua.
-+ Desktop Software Development : Developing cross-platform software using Kotlin, C#, Visual Basic, and Lua.
-+ Automation Scripting : Creating scripts to automate tasks and processes (e.g., Shell, Python, Batch, AHK).
-+ User Interface Design.
+ Web Development: Crafting dynamic web applications using HTML, CSS, PHP, JavaScript.
+ Android App Development: Building robust mobile apps using Java, Kotlin, or lua.
+ Desktop Software Development : Developing cross-platform software using Kotlin, C#, Visual Basic, and Lua.
+ Automation Scripting : Creating scripts to automate tasks and processes (e.g., Shell, Python, Batch, AHK).
+ User Interface Design.
 ```
 
 ## Goals
