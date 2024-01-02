@@ -15,7 +15,7 @@
 
 ## Goals
 ```diff
-- make it to 2024
++ make it to 2024
 + update lambda frequently
 - get a job in software development
 ```
