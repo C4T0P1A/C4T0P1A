@@ -3,8 +3,14 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1134265343032954920)](https://discord.com/users/1134265343032954920)
 
+## Stats
+---
+[![c4t0p1a stats](https://github-readme-stats.vercel.app/api/?username=C4T0P1A&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![c4t0p1a lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C4T0P1A&langs_count=5&theme=tokyonight)]()
 
 ## Skills
+---
 ```diff
  Web Development: Crafting dynamic web applications using HTML, CSS, PHP, JavaScript.
  Android App Development: Building robust mobile apps using Java, Kotlin, or lua.
@@ -14,6 +20,7 @@
 ```
 
 ## Goals
+---
 ```diff
 + make it to 2024
 + update lambda frequently
@@ -21,6 +28,7 @@
 ```
 
 ## Known Langs
+---
 ```diff
 + Python
 + Lua
