@@ -1,7 +1,7 @@
 # Hi, I'm C4T0P1A, Welcome to My GitHub Profile! 👋
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1134265343032954920)](https://discord.com/users/1134265343032954920)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1118743626751676537)](https://discord.com/users/1118743626751676537)
 
 ## Stats
 ---
