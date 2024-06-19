@@ -41,6 +41,6 @@
 + Java
 + Kotlin 
 + Batch/Bash
-+ GoLang
++ Ruby
 + VBS
 ```
